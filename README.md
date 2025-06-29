@@ -1,1 +1,1 @@
-# svt-2024-vezbe
+# svt-vezbe
